@@ -139,5 +139,22 @@ namespace WinAuth
 			return controls;
 		}
 
-	}
+        private void InitializeComponent()
+        {
+            this.SuspendLayout();
+            // 
+            // ResourceForm
+            // 
+            this.ClientSize = new System.Drawing.Size(300, 300);
+            this.Name = "ResourceForm";
+            this.Load += new System.EventHandler(this.ResourceForm_Load);
+            this.ResumeLayout(false);
+
+        }
+
+        private void ResourceForm_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
 }

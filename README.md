@@ -4,25 +4,21 @@
 
 ----
 
-## Download Latest Beta Version
+## Download Latest Version
 
-The latest beta version is WinAuth 3.6 and is available from the [releases](https://github.com/winauth/winauth/releases) page. Please do not use this version unless you are testing new features.
-
-This will likely be the last version of WinAuth when released as 3.7. It has reached the end of its useful life and requires a massive UI overhaul. My thanks to everyone who has used WinAuth, provided fixes and useful suggestions.
+The latest stable version is WinAuth 3.5 and is available to download from this source repository, or as a pre-compiled binary from [Releases](https://github.com/winauth/winauth/releases).
 
 ----
 
-## Download Latest Stable Version (WinAuth 3.5)
+## WinAuth 3.5 (latest stable)
 
 WinAuth provides an alternative solution to combine various two-factor authenticator services in one convenient place.
-
-This is the latest stable version and can be downloaded from the [releases](https://github.com/winauth/winauth/releases) page, or directly from:
 
 [Latest Version (WinAuth-3.5.1)](https://github.com/winauth/winauth/releases/download/3.5.1/WinAuth-3.5.1.zip)
 
 There is also a [.Net 3.5 build of WinAuth](https://github.com/winauth/winauth/releases/download/3.5.1/WinAuth-3.5.1-NET35.zip) that can be run on Windows 7 installations "out of the box".
 
-<img src="https://winauth.github.io/winauth/images/winauth3-preview.png" alt="WinAuth3 Preview" />
+<img src="https://winauth.github.io/winauth/images/winauth3-preview.png " alt="WinAuth3 Preview" />
 
 Features include:
 
@@ -107,7 +103,7 @@ There are no other executables installed on your machine. There is no installer 
 
 #### I found WinAuth on another website, is it the same thing?
 
-WinAuth source code is uploaded to GitHub at http://github.com/winauth/winauth and pre-built binaries are in [releases](https://github.com/winauth/winauth/releases). It is not published anywhere else, so please do not download any other programs claiming to be WinAuth.
+WinAuth source code is uploaded to GitHub at http://github.com/winauth/winauth and pre-built binaries are int [releases](https://github.com/winauth/winauth/releases). It is not published anywhere else, so please do not download any other programs claiming to be WinAuth.
 
 #### Where does WinAuth save my authenticator information?
 
